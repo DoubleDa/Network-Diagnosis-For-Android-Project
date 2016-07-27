@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Network-Diagnosis-For-Android-Project</string>
+    <string name="network_available">当前网络可用！</string>
+    <string name="network_unavailable">当前网络不可用！</string>
+    <string name="network_type">网络类型：</string>
+    <string name="network_type_wifi">Wi-Fi</string>
+</resources>
